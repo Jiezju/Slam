@@ -1,0 +1,5 @@
+# ninja log v5
+3011	3101	1657457454785877448	rgbd/joinMap	475ac51e671538d
+0	3008	1657457454693876320	rgbd/CMakeFiles/joinMap.dir/joinMap.cpp.o	69d46ab925cab99a
+2	2806	1657457501134445764	rgbd/CMakeFiles/joinMap.dir/joinMap.cpp.o	69d46ab925cab99a
+2806	2897	1657457501222446845	rgbd/joinMap	475ac51e671538d

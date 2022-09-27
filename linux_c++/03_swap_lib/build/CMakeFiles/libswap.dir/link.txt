@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,liblibswap.so -o liblibswap.so CMakeFiles/libswap.dir/src/swap.cpp.o 

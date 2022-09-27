@@ -1,0 +1,4 @@
+/home/bright/Vscode_Project/linux_c++/02_swap_lib/build/CMakeFiles/rebuild_cache.dir
+/home/bright/Vscode_Project/linux_c++/02_swap_lib/build/CMakeFiles/libswap.dir
+/home/bright/Vscode_Project/linux_c++/02_swap_lib/build/CMakeFiles/edit_cache.dir
+/home/bright/Vscode_Project/linux_c++/02_swap_lib/build/CMakeFiles/main.dir

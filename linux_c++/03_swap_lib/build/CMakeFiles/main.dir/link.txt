@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/bright/Vscode_Project/linux_c++/02_swap_lib/build liblibswap.so 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bright/Vscode_Project/linux_c++/02_swap_lib/build",
+  "command": "/usr/bin/g++-7 -Dlibswap_EXPORTS -I/home/bright/Vscode_Project/linux_c++/02_swap_lib/include -g -fPIC -o CMakeFiles/libswap.dir/src/swap.cpp.o -c /home/bright/Vscode_Project/linux_c++/02_swap_lib/src/swap.cpp",
+  "file": "/home/bright/Vscode_Project/linux_c++/02_swap_lib/src/swap.cpp"
+},
+{
+  "directory": "/home/bright/Vscode_Project/linux_c++/02_swap_lib/build",
+  "command": "/usr/bin/g++-7 -I/home/bright/Vscode_Project/linux_c++/02_swap_lib/include -g -o CMakeFiles/main.dir/main.cpp.o -c /home/bright/Vscode_Project/linux_c++/02_swap_lib/main.cpp",
+  "file": "/home/bright/Vscode_Project/linux_c++/02_swap_lib/main.cpp"
+}
+]
